@@ -1,5 +1,8 @@
+
 # Code Review: Mars Rover
+
 **Part 1**
+
 A squad of robotic rovers are to be landed by NASA on a plateau on Mars. This plateau, which is
 curiously rectangular, must be navigated by the rovers so that their on board cameras can get a
 complete view of the surrounding terrain to send back to Earth.
@@ -24,10 +27,13 @@ Each rover will be finished sequentially, which means that the second rover won'
 until the first one has finished moving.
 
 **Output:**
+
 The output for each rover should be its final co-ordinates and heading.
 
 **Input and Output**
+
 **Test Input:**
+
 5 5
 1 2 N
 LMLMLMLMM
